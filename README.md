@@ -1,1 +1,1 @@
-A basic QR Code GEnerator using Google Api
+Website involving with a QR Code Generator while using Google API's
